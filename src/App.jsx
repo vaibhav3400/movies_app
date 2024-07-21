@@ -9,7 +9,7 @@ import { useState } from 'react';
 //  omdbapi.com/aspikey.aspx
 //  bb29156b 38ee4952
 
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=38ee4952';
+const API_URL = 'https://www.omdbapi.com/?i=tt3896198&apikey=38ee4952';
 
 
 const App = () =>
